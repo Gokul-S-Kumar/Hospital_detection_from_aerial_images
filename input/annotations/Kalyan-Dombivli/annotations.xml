@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>85810</id>
+      <name>Kalyan-Dombivli</name>
+      <size>57</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2021-06-10 12:34:11.369362+01:00</created>
+      <updated>2021-06-10 13:35:34.193432+01:00</updated>
+      <start_frame>0</start_frame>
+      <stop_frame>56</stop_frame>
+      <frame_filter></frame_filter>
+      <labels>
+        <label>
+          <name>hospital</name>
+          <color>#8233bb</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>130375</id>
+          <start>0</start>
+          <stop>56</stop>
+          <url>http://cvat.org/?id=130375</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>gokul_skumar</username>
+        <email>gokul_skumar@isb.edu</email>
+      </owner>
+      <assignee></assignee>
+    </task>
+    <dumped>2021-06-10 13:35:38.893107+01:00</dumped>
+  </meta>
+  <image id="56" name="9.73.12461859999999.19.224087.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="411.90,246.02;475.36,245.57;487.60,414.21;396.94,401.06" z_order="0">
+    </polygon>
+  </image>
+  <image id="55" name="8.73.10114039999999.19.2154599.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="405.01,432.12;451.70,458.41;416.79,525.50;361.94,494.68" z_order="0">
+    </polygon>
+  </image>
+  <image id="54" name="7.73.0942917.19.2078173.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="346.07,431.12;449.89,417.07;422.69,496.85;327.03,478.72" z_order="0">
+    </polygon>
+  </image>
+  <image id="53" name="6.73.13160090000001.19.2107953.png" width="768" height="768">
+  </image>
+  <image id="52" name="59.73.09247959999999.19.2141532.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="290.39,450.84;347.18,422.12;375.90,484.14;310.62,503.72" z_order="0">
+    </polygon>
+  </image>
+  <image id="51" name="58.73.12862059999999.19.2103366.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="379.98,432.91;455.60,454.67;421.33,503.09;353.87,478.07" z_order="0">
+    </polygon>
+  </image>
+  <image id="50" name="57.73.131907.19.2119231.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="213.25,378.30;366.11,399.51;381.34,463.70;187.68,454.46" z_order="0">
+    </polygon>
+  </image>
+  <image id="49" name="56.73.0922016.19.2147383.png" width="768" height="768">
+  </image>
+  <image id="48" name="55.73.1370614.19.2533043.png" width="768" height="768">
+  </image>
+  <image id="47" name="54.73.1410034.19.215692.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="403.45,403.45;485.70,389.74;498.11,444.58;409.33,458.94" z_order="0">
+    </polygon>
+  </image>
+  <image id="46" name="53.73.14991839999999.19.2538747.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="266.69,206.57;356.78,225.50;302.59,380.86;221.65,357.36" z_order="0">
+    </polygon>
+  </image>
+  <image id="45" name="52.73.1403573.19.2268205.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="214.76,274.45;379.30,360.90;367.98,254.71;239.20,194.55" z_order="0">
+    </polygon>
+  </image>
+  <image id="44" name="51.73.1240921.19.236597.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="401.82,307.35;513.69,379.73;352.00,558.34;267.40,470.91" z_order="0">
+    </polygon>
+  </image>
+  <image id="43" name="50.73.1255923.19.2371933.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="263.51,310.68;431.61,299.80;455.54,259.00;336.41,211.67" z_order="0">
+    </polygon>
+  </image>
+  <image id="42" name="5.73.122608.19.244186.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="289.84,415.23;358.39,410.34;358.93,482.15;287.12,483.23" z_order="0">
+    </polygon>
+  </image>
+  <image id="41" name="49.73.128562.19.2620085.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="371.17,467.46;524.03,441.89;494.66,556.67;351.59,527.84" z_order="0">
+    </polygon>
+  </image>
+  <image id="40" name="48.73.1230112.19.2377013.png" width="768" height="768">
+  </image>
+  <image id="39" name="47.73.1380248.19.2290466.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="365.54,361.78;446.22,325.74;496.36,375.09;496.36,375.09;381.99,420.53" z_order="0">
+    </polygon>
+  </image>
+  <image id="38" name="46.73.13151979999999.19.2245918.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="409.36,370.74;479.53,363.66;476.81,505.65;393.58,510.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="37" name="45.73.0913001.19.2059642.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="361.16,259.16;398.15,283.64;360.62,326.62;321.99,302.14" z_order="0">
+    </polygon>
+  </image>
+  <image id="36" name="44.73.1239359.19.2268576.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="275.43,239.14;355.40,246.76;351.59,296.26;264.00,289.19" z_order="0">
+    </polygon>
+  </image>
+  <image id="35" name="43.73.1275187.19.224346.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="395.49,475.07;472.73,457.12;501.00,618.70;424.32,626.85" z_order="0">
+    </polygon>
+  </image>
+  <image id="34" name="42.73.1425433.19.2558324.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="291.84,423.91;520.27,370.33;540.01,458.69;300.30,525.44" z_order="0">
+    </polygon>
+  </image>
+  <image id="33" name="41.73.1354094.19.2249189.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="374.00,370.74;432.75,368.56;433.30,440.91;358.22,443.09" z_order="0">
+    </polygon>
+  </image>
+  <image id="32" name="40.73.0846212.19.2228214.png" width="768" height="768">
+  </image>
+  <image id="31" name="4.73.1032537.19.2009777.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="271.51,453.42;371.06,512.17;313.40,586.70;210.04,517.07" z_order="0">
+    </polygon>
+  </image>
+  <image id="30" name="39.73.1172223.19.2155397.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="293.59,414.16;399.34,446.14;360.17,532.97;250.50,478.78" z_order="0">
+    </polygon>
+  </image>
+  <image id="29" name="38.73.1357034.19.2466813.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="424.05,417.30;548.62,423.83;543.73,511.41;412.62,494.01" z_order="0">
+    </polygon>
+  </image>
+  <image id="28" name="37.73.1295031.19.2439555.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="265.47,444.76;382.88,450.20;419.60,513.67;327.13,565.80;234.19,494.18" z_order="0">
+    </polygon>
+  </image>
+  <image id="27" name="36.73.1324988.19.2257521.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="300.57,422.51;386.74,418.60;417.42,510.64;315.59,517.17" z_order="0">
+    </polygon>
+  </image>
+  <image id="26" name="35.73.1384929.19.245361.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="418.74,423.23;484.48,433.20;464.98,508.91;397.89,489.42" z_order="0">
+    </polygon>
+  </image>
+  <image id="25" name="34.73.0926827.19.2163187.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="359.96,249.37;415.45,273.85;381.72,352.19;315.36,320.09" z_order="0">
+    </polygon>
+  </image>
+  <image id="24" name="33.73.133062.19.225127.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="463.38,331.95;519.41,331.40;515.06,378.19;453.59,376.01" z_order="0">
+    </polygon>
+  </image>
+  <image id="23" name="32.73.1360919.19.2281951.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="244.59,487.27;331.54,490.40;324.49,566.39;225.79,556.99" z_order="0">
+    </polygon>
+  </image>
+  <image id="22" name="31.73.11103299999999.19.208534.png" width="768" height="768">
+  </image>
+  <image id="21" name="30.73.1273023.19.2360674.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="387.71,458.43;475.84,479.10;454.62,552.54;362.68,504.12" z_order="0">
+    </polygon>
+  </image>
+  <image id="20" name="3.73.1382288.19.2556074.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="382.43,448.23;471.21,448.89;469.25,576.83;351.75,561.17" z_order="0">
+    </polygon>
+  </image>
+  <image id="19" name="29.73.12562199999999.19.238285.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="389.60,265.00;446.00,345.00;342.60,411.69;289.96,356.23" z_order="0">
+    </polygon>
+  </image>
+  <image id="18" name="28.73.0916065.19.2162681.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="399.00,276.33;477.96,259.41;468.56,354.35;403.70,358.11" z_order="0">
+    </polygon>
+  </image>
+  <image id="17" name="27.73.0915691.19.213073.png" width="768" height="768">
+  </image>
+  <image id="16" name="26.73.13954799999999.19.2262592.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="353.93,374.87;467.08,380.85;402.89,472.25;315.85,407.51" z_order="0">
+    </polygon>
+  </image>
+  <image id="15" name="25.73.12837520000001.19.2227319.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="323.14,270.26;442.82,214.23;487.42,296.92;351.42,357.84" z_order="0">
+    </polygon>
+  </image>
+  <image id="14" name="24.73.1223983.19.2237675.png" width="768" height="768">
+  </image>
+  <image id="13" name="23.73.109051.19.246748.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="352.94,315.81;477.02,356.23;396.18,554.58;270.22,483.13" z_order="0">
+    </polygon>
+  </image>
+  <image id="12" name="22.73.1042058.19.2073689.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="476.96,237.18;539.62,288.76;463.90,372.31;401.88,315.52" z_order="0">
+    </polygon>
+  </image>
+  <image id="11" name="21.73.1348945.19.2374539.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="262.71,392.62;390.00,461.16;336.47,552.55;202.65,494.45" z_order="0">
+    </polygon>
+  </image>
+  <image id="10" name="20.73.14097319999999.19.2405381.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="376.23,343.86;578.05,292.73;601.99,447.22;380.04,474.97" z_order="0">
+    </polygon>
+  </image>
+  <image id="9" name="2.73.1256547.19.2233805.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="241.75,384.06;402.34,394.51;390.59,584.47;250.24,579.25" z_order="0">
+    </polygon>
+  </image>
+  <image id="8" name="19.73.1267599.19.2358433.png" width="768" height="768">
+  </image>
+  <image id="7" name="18.73.09405799999999.19.214941.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="323.19,261.67;456.47,209.44;486.39,314.98;352.57,359.04" z_order="0">
+    </polygon>
+  </image>
+  <image id="6" name="17.73.1435182.19.2400972.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="317.79,412.12;379.89,388.55;429.31,545.40;358.13,559.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="5" name="16.73.10562449999999.19.2079027.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="478.88,328.96;540.90,395.32;444.61,501.40;363.56,433.40" z_order="0">
+    </polygon>
+  </image>
+  <image id="4" name="15.73.0915761.19.2148654.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="362.65,279.62;453.39,261.34;463.84,371.01;363.30,382.76" z_order="0">
+    </polygon>
+  </image>
+  <image id="3" name="14.73.12727989999999.19.2204193.png" width="768" height="768">
+  </image>
+  <image id="2" name="12.73.129206.19.2177678.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="213.41,245.83;290.66,218.63;316.23,280.11;235.72,300.23" z_order="0">
+    </polygon>
+  </image>
+  <image id="1" name="11.73.1367151.19.2316989.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="327.39,312.90;411.21,306.63;429.22,387.31;354.02,396.71" z_order="0">
+    </polygon>
+  </image>
+  <image id="0" name="1.73.1240914.19.2455303.png" width="768" height="768">
+    <polygon label="hospital" occluded="0" source="manual" points="303.55,413.88;360.67,411.15;361.76,464.47;298.11,462.83" z_order="0">
+    </polygon>
+  </image>
+</annotations>
