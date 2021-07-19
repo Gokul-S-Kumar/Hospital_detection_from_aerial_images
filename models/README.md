@@ -1,9 +1,9 @@
 # Model Weights
 
-<2021>, by ISB Institute of Data Science
-Contributors: Dr. Shruti Mantri, Gokul S Kumar and Vishal Sriram
-Faculty Mentors: Dr. Manish Gangwar and Dr. Madhu Vishwanathan
-Affiliation: Indian School of Business
+<2021>, by ISB Institute of Data Science  
+Contributors: Dr. Shruti Mantri, Gokul S Kumar and Vishal Sriram  
+Faculty Mentors: Dr. Manish Gangwar and Dr. Madhu Vishwanathan  
+Affiliation: Indian School of Business  
 
 ## Description: 
 - **rural_model.h5** - Model weights obtained after training on hospital images belonging to comparitively rural areas, i.e., Achalpur, Ahmednagar, Ambarnath, Barshi, Beed, Bhivandi-Nizampur, Bhusawal, Chandrapur, Dhule, Gondia, Hinganghat, Ichalkaranji, Jalgaon, Jalna, Wardha, Yavatmal.

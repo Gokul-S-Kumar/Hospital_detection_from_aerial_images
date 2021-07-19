@@ -1,5 +1,10 @@
 # Geospatial Hospital Detection
 
+<2021>, by ISB Institute of Data Science    
+Contributors: Dr. Shruti Mantri, Gokul S Kumar and Vishal Sriram     
+Faculty Mentors: Dr. Manish Gangwar and Dr. Madhu Vishwanathan    
+Affiliation: Indian School of Business   
+
 ## Aim & Objective
 To design and develop an intelligent system that identifies hospitals and healthcare facilities from satellite images.
 
