@@ -1,3 +1,8 @@
+# <2021>, by ISB Institute of Data Science
+# Contributors: Dr. Shruti Mantri, Gokul S Kumar and Vishal Sriram
+# Faculty Mentors: Dr. Manish Gangwar and Dr. Madhu Vishwanathan
+# Affiliation: Indian School of Business
+
 # Importing necessary libraries
 import numpy as np
 import matplotlib.pyplot as plt

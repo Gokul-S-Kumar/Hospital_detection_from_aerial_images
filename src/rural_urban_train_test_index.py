@@ -1,3 +1,8 @@
+# <2021>, by ISB Institute of Data Science
+# Contributors: Dr. Shruti Mantri, Gokul S Kumar and Vishal Sriram
+# Faculty Mentors: Dr. Manish Gangwar and Dr. Madhu Vishwanathan
+# Affiliation: Indian School of Business
+
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split

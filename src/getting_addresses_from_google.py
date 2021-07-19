@@ -1,5 +1,9 @@
-# Script for downloading hospital addresses by cities in Maharashtra using Google Places API from GCP. 
+# <2021>, by ISB Institute of Data Science
+# Contributors: Dr. Shruti Mantri, Gokul S Kumar and Vishal Sriram
+# Faculty Mentors: Dr. Manish Gangwar and Dr. Madhu Vishwanathan
+# Affiliation: Indian School of Business
 
+# Script for downloading hospital addresses by cities in Maharashtra using Google Places API from GCP. 
 import pandas as pd 
 import numpy as np 
 import requests

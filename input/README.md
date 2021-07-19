@@ -1,5 +1,10 @@
 # Input data files
 
+<2021>, by ISB Institute of Data Science
+Contributors: Dr. Shruti Mantri, Gokul S Kumar and Vishal Sriram
+Faculty Mentors: Dr. Manish Gangwar and Dr. Madhu Vishwanathan
+Affiliation: Indian School of Business
+
 ## Description
 - **maharashtra_cities.csv** - CSV file containing the names of 43 cities in Maharashtra, obtained from Wikipedia.
 - **addresses** - CSV files containing the addresses of 60 hospitals in each city, obtained from Google Maps API

@@ -1,5 +1,10 @@
 # Data Pipeline, Training, and Inference.
 
+<2021>, by ISB Institute of Data Science
+Contributors: Dr. Shruti Mantri, Gokul S Kumar and Vishal Sriram
+Faculty Mentors: Dr. Manish Gangwar and Dr. Madhu Vishwanathan
+Affiliation: Indian School of Business
+
 ## Description
 Run the scripts in the following order.
 1. **getting_addresses_from_google.py** - Script for getting the addresses and coordinates of hospital in each city listed in "../input/maharashtra_cities.csv" file.

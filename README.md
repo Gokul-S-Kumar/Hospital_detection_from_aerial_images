@@ -1,7 +1,7 @@
 # Geospatial Hospital Detection
 
-## Objective
-This project aims to detect hospital buildings from aerial images of the state of Maharashtra in India.
+## Aim & Objective
+To design and develop an intelligent system that identifies hospitals and healthcare facilities from satellite images.
 
 ## Steps involved
 1. Collecting the names of major cities in Maharashtra.
