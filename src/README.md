@@ -16,3 +16,7 @@ Run the scripts in the following order.
 7. **data_split.py** - Script for creating rural, urban and further train and test directories and storing the corresponding data-points accordingly.
 8. **train.py** - Training script. Change the input and output directories to "rural" and "urban" as per the need.
 9. **inference.py** - Script for creating predictions and calculating test set metrics. Use the respective model weights for rural and urban areas. The green mask in the prediction refers to ground truth and the red mask is the prediction by the model. The metrics are calculated for each city.
+10. **info_from_tifs.py** - Script for extracting the zoom 17 tiles in Maharashtra that contains infrastructure.
+11. **image_download_maharashtra.py** - Script for downloading the tiles extracted in info_from_tiles.py script.
+12. **inference_maharashtra.py** - Inference script for getting predictions on the downloaded images in .npz format.
+13. **npz_to_geojson.py** - Script for converting the .npz prediction files to geojson format.

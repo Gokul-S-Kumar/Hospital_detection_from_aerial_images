@@ -25,5 +25,6 @@ Use the "requirements.txt" file to clone the environment in which the model eas 
 - **models**: The final model weights.
 - **notebooks**: Jupyter notebooks used for data visualization and other purposes.
 - **src**: All the python scripts associated with the project.
+- **inference**: Contains the geotiff infra maps, tile numbers containing infrastructure, images used for inference & predictions in .npz and geojson format.
 
 
