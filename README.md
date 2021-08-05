@@ -1,4 +1,9 @@
-![Geospatial Analytics](./Geospatial_Analytics.png "Geospatial Analytics")  
+![Geospatial Analytics](./Geospatial_Analytics.png "Geospatial Analytics")
+
+## **Contributors:** Dr. Shruti Mantri, Gokul S Kumar, Vishal Siram  
+## **Faculty Mentors:** Dr. Manish Gangwar, Dr. Madhu Vishwanathan.
+
+<br/>
 
 ## Aim & Objective
 To design and develop an intelligent system that identifies hospitals and healthcare facilities from satellite images.
