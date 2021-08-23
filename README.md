@@ -18,7 +18,6 @@ To design and develop an intelligent system that identifies hospitals and health
 7. Split the train data into train and validation data and train the UNet model.
 8. Use the model weights to make predictions.
 
-Use the "requirements.txt" file to clone the environment in which the model eas developed.
 
 ## Repo contents
 - **input**: The address (and coordinates) CSV's from Google Maps API, the image files from Mapbox and the respective annotation XML files from CVAT.
@@ -26,5 +25,16 @@ Use the "requirements.txt" file to clone the environment in which the model eas 
 - **notebooks**: Jupyter notebooks used for data visualization and other purposes.
 - **src**: All the python scripts associated with the project.
 - **inference**: Contains the geotiff infra maps, tile numbers containing infrastructure, images used for inference & predictions in .npz and geojson format.
+
+## FAQs
+
+1. How to clone the repo to start developing?  
+A: ```git clone https://github.com/Gokul-S-Kumar/Hospital_detection_from_aerial_images```
+
+2. How to set-up the dev environment?  
+A: Use the "requirements.txt" file to clone the environment in which the model was developed.
+
+3. How to build on the existing work?  
+A: Use the model weights available [here](https://github.com/Gokul-S-Kumar/Hospital_detection_from_aerial_images/tree/main/models) as pre-trained weights and develop new strategies to further improve the predictions.
 
 
